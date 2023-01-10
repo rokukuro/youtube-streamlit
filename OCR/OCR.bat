@@ -1,0 +1,1 @@
+C:\Users\ken-ichi\anaconda3\python.exe D:\MyPython\programs\OCR\OCR_PGM.py
